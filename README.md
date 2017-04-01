@@ -3,7 +3,7 @@ video https://gfycat.com/CaringMilkyAmericanwirehair
 
 ![alt tag](https://github.com/xxdd13/OverClock/blob/master/logo.jpg)
 
-## /library/libiphone-lib.a is not included due to its size
+## /Libraries/libiphone-lib.a is removed due to its size, just get it from elsewhere and put it in
 
 ## Products
 -Unity 5
