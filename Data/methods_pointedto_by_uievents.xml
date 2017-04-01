@@ -1,0 +1,14 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="UiControl">
+			<method name="ButtonLevel"/>
+			<method name="ButtonMute"/>
+			<method name="ResetStarButton"/>
+			<method name="ResetButton"/>
+			<method name="ResetButton"/>
+		</type>
+		<type fullname="LevelControl">
+			<method name="InputControl"/>
+		</type>
+	</assembly>
+</linker>
